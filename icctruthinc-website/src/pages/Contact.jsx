@@ -25,7 +25,7 @@ const Contact = () => {
     <>
       <Helmet>
         <title>Contact Us | Icc Truth Inc | 501(c)(3) Nonprofit</title>
-        <meta name="description" content="Contact Icc Truth Inc at 21 Baker St, Churchville, NY 14428-9718. Email: admin@icctruthinc.com | Phone: (585) 243-3142. EIN: 27-0377373." />
+        <meta name="description" content="Contact Icc Truth Inc at 21 Baker St, Churchville, NY 14428-9718. Email: info@icctruthinc.com | Phone: (585) 243-3142. EIN: 27-0377373." />
         <link rel="canonical" href="https://www.icctruthinc.com/contact" />
       </Helmet>
 
@@ -60,8 +60,8 @@ const Contact = () => {
               </div>
               <div>
                 <h5 className="font-semibold text-navy-900 mb-1">Email</h5>
-                <a href="mailto:admin@icctruthinc.com" className="text-slate-600 text-sm hover:text-primary-700 transition-colors">
-                  admin@icctruthinc.com
+                <a href="mailto:info@icctruthinc.com" className="text-slate-600 text-sm hover:text-primary-700 transition-colors">
+                  info@icctruthinc.com
                 </a>
               </div>
             </div>
