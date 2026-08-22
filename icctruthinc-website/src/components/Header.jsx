@@ -35,9 +35,9 @@ const Header = () => {
             </span>
           </div>
           <div className="flex items-center gap-4">
-            <a href="mailto:admin@icctruthinc.com" className="flex items-center gap-1.5 hover:text-white transition-colors">
+            <a href="mailto:info@icctruthinc.com" className="flex items-center gap-1.5 hover:text-white transition-colors">
               <Mail className="w-3.5 h-3.5" />
-              <span className="hidden sm:inline">admin@icctruthinc.com</span>
+              <span className="hidden sm:inline">info@icctruthinc.com</span>
             </a>
             <a href="tel:+15852433142" className="flex items-center gap-1.5 hover:text-white transition-colors">
               <Phone className="w-3.5 h-3.5" />
