@@ -54,9 +54,9 @@ const Footer = () => {
                   United States
                 </p>
               </div>
-              <a href="mailto:admin@icctruthinc.com" className="flex items-center gap-3 text-sm hover:text-white transition-colors">
+              <a href="mailto:info@icctruthinc.com" className="flex items-center gap-3 text-sm hover:text-white transition-colors">
                 <Mail className="w-5 h-5 text-primary-500 shrink-0" />
-                admin@icctruthinc.com
+                info@icctruthinc.com
               </a>
               <a href="tel:+15852433142" className="flex items-center gap-3 text-sm hover:text-white transition-colors">
                 <Phone className="w-5 h-5 text-primary-500 shrink-0" />
