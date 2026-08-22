@@ -13,7 +13,7 @@ const Team = () => {
 
   const staff = [
     { initials: 'MK', name: 'Michael Kowalski', role: 'Executive Director', bio: 'Michael has led Icc Truth Inc since 2018, bringing 15 years of nonprofit management experience. He holds an MPA from Syracuse University and is responsible for overall organizational strategy and operations.' },
-    { initials: 'TJ', name: 'Tasha Johnson', role: 'Director of Programs', bio: 'Tasha oversees all program delivery, staff supervision, and outcome measurement. She has a Master's in Social Work and previously directed youth services at a regional community center.' },
+    { initials: 'TJ', name: 'Tasha Johnson', role: 'Director of Programs', bio: "Tasha oversees all program delivery, staff supervision, and outcome measurement. She has a Master's in Social Work and previously directed youth services at a regional community center." },
     { initials: 'DN', name: 'David Nguyen', role: 'Development & Communications Manager', bio: 'David manages fundraising, donor relations, marketing, and external communications. He joined the team in 2021 and has grown the annual fund by 45%.' },
     { initials: 'RB', name: 'Rebecca Brooks', role: 'Finance & Operations Coordinator', bio: 'Rebecca handles day-to-day financial operations, grant reporting, HR administration, and office management. She ensures smooth organizational functioning.' },
   ]
