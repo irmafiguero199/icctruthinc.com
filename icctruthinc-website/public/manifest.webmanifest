@@ -1,0 +1,16 @@
+{
+  "name": "Icc Truth Inc",
+  "short_name": "Icc Truth",
+  "description": "Registered 501(c)(3) nonprofit organization serving Churchville, NY and Monroe County.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
