@@ -3,9 +3,9 @@ import { Helmet } from 'react-helmet-async'
 const PrivacyPolicy = () => (
   <>
     <Helmet>
-      <title>Privacy Policy | Icc Truth Inc | 501(c)(3) Nonprofit</title>
-      <meta name="description" content="Privacy Policy of Icc Truth Inc, a 501(c)(3) nonprofit. EIN: 27-0377373. 21 Baker St, Churchville, NY 14428-9718." />
-      <link rel="canonical" href="https://www.icctruthinc.com/privacy" />
+      <title>Privacy Policy | Vernon Maden | 501(c)(3) Nonprofit</title>
+      <meta name="description" content="Privacy Policy of Vernon Maden, a 501(c)(3) nonprofit. EIN: 87-0974521. 5731 70th Pl, Lubbock, TX 79424-1819." />
+      <link rel="canonical" href="https://vernonmaden.com/privacy" />
     </Helmet>
 
     <div className="page-hero">
@@ -16,20 +16,20 @@ const PrivacyPolicy = () => (
     <div className="container-main px-4 py-16 max-w-3xl">
       <div className="legal-box mb-8">
         <p className="text-slate-600 text-sm"><strong>Effective Date:</strong> August 22, 2026</p>
-        <p className="text-slate-600 text-sm"><strong>Organization:</strong> Icc Truth Inc</p>
-        <p className="text-slate-600 text-sm"><strong>EIN:</strong> 27-0377373</p>
-        <p className="text-slate-600 text-sm"><strong>Address:</strong> 21 Baker St, Churchville, NY 14428-9718</p>
-        <p className="text-slate-600 text-sm"><strong>Email:</strong> admin@icctruthinc.com</p>
+        <p className="text-slate-600 text-sm"><strong>Organization:</strong> Vernon Maden</p>
+        <p className="text-slate-600 text-sm"><strong>EIN:</strong> 87-0974521</p>
+        <p className="text-slate-600 text-sm"><strong>Address:</strong> 5731 70th Pl, Lubbock, TX 79424-1819</p>
+        <p className="text-slate-600 text-sm"><strong>Email:</strong> admin@vernonmaden.com</p>
       </div>
 
       <div className="space-y-8">
         <section>
           <h3 className="text-xl font-bold text-navy-900 mb-4">1. Introduction</h3>
           <p className="text-slate-600 leading-relaxed mb-4">
-            Icc Truth Inc ("we," "our," or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website <a href="https://www.icctruthinc.com" className="text-primary-700 hover:underline">www.icctruthinc.com</a> or interact with us.
+            Vernon Maden ("we," "our," or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website <a href="https://vernonmaden.com" className="text-primary-700 hover:underline">vernonmaden.com</a> or interact with us.
           </p>
           <p className="text-slate-600 leading-relaxed">
-            We are a registered 501(c)(3) nonprofit organization located at 21 Baker St, Churchville, NY 14428-9718, with Federal EIN 27-0377373.
+            We are a registered 501(c)(3) nonprofit organization located at 5731 70th Pl, Lubbock, TX 79424-1819, with Federal EIN 87-0974521.
           </p>
         </section>
 
@@ -88,11 +88,11 @@ const PrivacyPolicy = () => (
             If you have questions about this Privacy Policy or wish to exercise your rights, please contact us at:
           </p>
           <div className="mt-4 p-4 bg-slate-50 rounded-xl border border-slate-200">
-            <p className="text-slate-700"><strong>Icc Truth Inc</strong></p>
-            <p className="text-slate-600">21 Baker St, Churchville, NY 14428-9718</p>
-            <p className="text-slate-600">Email: <a href="mailto:admin@icctruthinc.com" className="text-primary-700 hover:underline">admin@icctruthinc.com</a></p>
+            <p className="text-slate-700"><strong>Vernon Maden</strong></p>
+            <p className="text-slate-600">5731 70th Pl, Lubbock, TX 79424-1819</p>
+            <p className="text-slate-600">Email: <a href="mailto:admin@vernonmaden.com" className="text-primary-700 hover:underline">admin@vernonmaden.com</a></p>
             <p className="text-slate-600">Phone: <a href="tel:+15852433142" className="text-primary-700 hover:underline">(585) 243-3142</a></p>
-            <p className="text-slate-600 text-sm mt-2">EIN: 27-0377373</p>
+            <p className="text-slate-600 text-sm mt-2">EIN: 87-0974521</p>
           </div>
         </section>
       </div>
