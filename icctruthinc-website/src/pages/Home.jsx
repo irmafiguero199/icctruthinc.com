@@ -8,9 +8,9 @@ import { BookOpen, Globe, Heart, Users, ArrowRight } from 'lucide-react'
 const Home = () => (
   <>
     <Helmet>
-      <title>Icc Truth Inc | Registered 501(c)(3) Nonprofit | Churchville, NY</title>
-      <meta name="description" content="Icc Truth Inc is a 501(c)(3) nonprofit serving Churchville, NY and Monroe County through education, community outreach, and cultural exchange. EIN: 27-0377373." />
-      <link rel="canonical" href="https://www.icctruthinc.com/" />
+      <title>Vernon Maden | Registered 501(c)(3) Nonprofit | Lubbock, TX</title>
+      <meta name="description" content="Vernon Maden is a 501(c)(3) nonprofit serving Lubbock, TX and surrounding areas through education, community outreach, and cultural exchange. EIN: 87-0974521." />
+      <link rel="canonical" href="https://vernonmaden.com/" />
     </Helmet>
 
     <Hero />
@@ -21,13 +21,13 @@ const Home = () => (
           <div>
             <h3 className="text-3xl md:text-4xl font-bold text-navy-900 mb-6 font-serif">Our Mission</h3>
             <p className="text-slate-600 leading-relaxed mb-4">
-              Founded in 2009, Icc Truth Inc exists to advance educational opportunities, promote civic engagement, and strengthen community bonds through truth-driven initiatives and inclusive programming.
+              Founded in 2009, Vernon Maden exists to advance educational opportunities, promote civic engagement, and strengthen community bonds through truth-driven initiatives and inclusive programming.
             </p>
             <p className="text-slate-600 leading-relaxed mb-4">
               We believe that every individual deserves access to quality education, mentorship, and resources that enable them to reach their full potential. Our work spans youth development, adult literacy, cultural exchange, and community outreach.
             </p>
             <p className="text-slate-600 leading-relaxed mb-6">
-              Serving Churchville, NY and surrounding Monroe County communities, we partner with local schools, libraries, and civic organizations to create lasting positive change.
+              Serving Lubbock, TX and surrounding Texas communities, we partner with local schools, libraries, and civic organizations to create lasting positive change.
             </p>
             <Link to="/mission" className="btn-primary bg-navy-900 text-white hover:bg-navy-950">
               Read Our Full Mission
@@ -48,8 +48,8 @@ const Home = () => (
       />
       <div className="grid md:grid-cols-3 gap-8">
         {[
-          { icon: BookOpen, title: 'Youth Education & Mentorship', desc: 'After-school tutoring, STEM workshops, and one-on-one mentorship for students grades K-12 in Churchville and surrounding districts.' },
-          { icon: Heart, title: 'Community Outreach', desc: 'Food security programs, resource fairs, and direct assistance to families in need throughout Monroe County.' },
+          { icon: BookOpen, title: 'Youth Education & Mentorship', desc: 'After-school tutoring, STEM workshops, and one-on-one mentorship for students grades K-12 in Lubbock and surrounding districts.' },
+          { icon: Heart, title: 'Community Outreach', desc: 'Food security programs, resource fairs, and direct assistance to families in need throughout Lubbock County.' },
           { icon: Globe, title: 'Cultural Exchange', desc: 'Intercultural dialogue events, heritage celebrations, and arts programming that bring diverse communities together.' },
         ].map((program) => (
           <div key={program.title} className="card-hover">
