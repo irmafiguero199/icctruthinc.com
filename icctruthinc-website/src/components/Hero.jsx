@@ -9,13 +9,13 @@ const Hero = () => (
     <div className="container-main px-4 py-24 md:py-32 relative z-10 text-center">
       <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 px-5 py-2 rounded-full text-sm font-medium mb-8">
         <Shield className="w-4 h-4 text-primary-400" />
-        Registered 501(c)(3) | EIN: 27-0377373
+        Registered 501(c)(3) | EIN: 87-0974521
       </div>
       <h2 className="text-4xl md:text-6xl font-bold mb-6 leading-tight max-w-4xl mx-auto font-serif">
         Empowering Communities Through Truth, Education & Service
       </h2>
       <p className="text-lg md:text-xl text-slate-300 max-w-2xl mx-auto mb-10 leading-relaxed">
-        Icc Truth Inc is a nonprofit organization dedicated to fostering educational excellence, community development, and intercultural understanding in Churchville and the greater Monroe County region.
+        Vernon Maden is a nonprofit organization dedicated to fostering educational excellence, community development, and intercultural understanding in Lubbock and the greater Texas region.
       </p>
       <div className="flex flex-wrap justify-center gap-4">
         <Link to="/programs" className="btn-primary">
