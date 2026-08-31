@@ -9,13 +9,13 @@ const Footer = () => {
       <div className="container-main px-4 py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           <div className="lg:col-span-1">
-            <h4 className="text-white font-serif text-2xl font-bold mb-4">Icc Truth Inc</h4>
+            <h4 className="text-white font-serif text-2xl font-bold mb-4">Vernon Maden</h4>
             <p className="text-sm leading-relaxed mb-4">
-              Empowering communities through truth, education, and service. A registered 501(c)(3) nonprofit organization serving Churchville and Monroe County, New York since 2009.
+              Empowering communities through truth, education, and service. A registered 501(c)(3) nonprofit organization serving Lubbock and surrounding areas in Texas.
             </p>
             <div className="inline-flex items-center gap-2 bg-primary-900/30 text-primary-400 px-4 py-2 rounded-lg text-sm font-medium">
               <Shield className="w-4 h-4" />
-              EIN: 27-0377373
+              EIN: 87-0974521
             </div>
           </div>
 
@@ -48,15 +48,15 @@ const Footer = () => {
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary-500 shrink-0 mt-0.5" />
                 <p className="text-sm">
-                  Icc Truth Inc<br />
-                  21 Baker St<br />
-                  Churchville, NY 14428-9718<br />
+                  Vernon Maden<br />
+                  5731 70th Pl<br />
+                  Lubbock, TX 79424-1819<br />
                   United States
                 </p>
               </div>
-              <a href="mailto:info@icctruthinc.com" className="flex items-center gap-3 text-sm hover:text-white transition-colors">
+              <a href="mailto:admin@vernonmaden.com" className="flex items-center gap-3 text-sm hover:text-white transition-colors">
                 <Mail className="w-5 h-5 text-primary-500 shrink-0" />
-                info@icctruthinc.com
+                admin@vernonmaden.com
               </a>
               <a href="tel:+15852433142" className="flex items-center gap-3 text-sm hover:text-white transition-colors">
                 <Phone className="w-5 h-5 text-primary-500 shrink-0" />
@@ -64,16 +64,16 @@ const Footer = () => {
               </a>
             </div>
             <div className="flex gap-3 mt-6">
-              <a href="https://www.facebook.com/icctruthinc" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-slate-700 transition-colors" aria-label="Facebook">
+              <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-slate-700 transition-colors" aria-label="Facebook">
                 <Facebook className="w-4 h-4" />
               </a>
-              <a href="https://www.twitter.com/icctruthinc" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-slate-700 transition-colors" aria-label="Twitter">
+              <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-slate-700 transition-colors" aria-label="Twitter">
                 <Twitter className="w-4 h-4" />
               </a>
-              <a href="https://www.instagram.com/icctruthinc" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-slate-700 transition-colors" aria-label="Instagram">
+              <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-slate-700 transition-colors" aria-label="Instagram">
                 <Instagram className="w-4 h-4" />
               </a>
-              <a href="https://www.linkedin.com/company/icctruthinc" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-slate-700 transition-colors" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-slate-700 transition-colors" aria-label="LinkedIn">
                 <Linkedin className="w-4 h-4" />
               </a>
             </div>
@@ -81,8 +81,8 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-slate-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs">
-          <p>© {currentYear} Icc Truth Inc. All rights reserved. 501(c)(3) Nonprofit Organization.</p>
-          <p className="text-slate-500">EIN: 27-0377373 | 21 Baker St, Churchville, NY 14428-9718</p>
+          <p>© {currentYear} Vernon Maden. All rights reserved. 501(c)(3) Nonprofit Organization.</p>
+          <p className="text-slate-500">EIN: 87-0974521 | 5731 70th Pl, Lubbock, TX 79424-1819</p>
         </div>
       </div>
     </footer>
