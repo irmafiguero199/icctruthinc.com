@@ -27,17 +27,17 @@ const Header = () => {
           <div className="flex items-center gap-4 flex-wrap">
             <span className="flex items-center gap-1.5">
               <Shield className="w-3.5 h-3.5 text-primary-500" />
-              EIN: 27-0377373 | 501(c)(3)
+              EIN: 87-0974521 | 501(c)(3)
             </span>
             <span className="hidden sm:flex items-center gap-1.5">
               <MapPin className="w-3.5 h-3.5" />
-              21 Baker St, Churchville, NY 14428-9718
+              5731 70th Pl, Lubbock, TX 79424-1819
             </span>
           </div>
           <div className="flex items-center gap-4">
-            <a href="mailto:info@icctruthinc.com" className="flex items-center gap-1.5 hover:text-white transition-colors">
+            <a href="mailto:admin@vernonmaden.com" className="flex items-center gap-1.5 hover:text-white transition-colors">
               <Mail className="w-3.5 h-3.5" />
-              <span className="hidden sm:inline">info@icctruthinc.com</span>
+              <span className="hidden sm:inline">admin@vernonmaden.com</span>
             </a>
             <a href="tel:+15852433142" className="flex items-center gap-1.5 hover:text-white transition-colors">
               <Phone className="w-3.5 h-3.5" />
@@ -51,10 +51,10 @@ const Header = () => {
         <div className="container-main px-4 flex justify-between items-center h-[72px]">
           <Link to="/" className="flex items-center gap-3">
             <div className="w-11 h-11 bg-gradient-to-br from-navy-800 to-primary-700 rounded-xl flex items-center justify-center text-white font-bold text-lg font-serif">
-              IT
+              VM
             </div>
             <div>
-              <h1 className="text-xl font-bold text-navy-900 leading-tight font-serif">Icc Truth Inc</h1>
+              <h1 className="text-xl font-bold text-navy-900 leading-tight font-serif">Vernon Maden</h1>
               <span className="text-xs text-slate-500 tracking-wider uppercase">Registered 501(c)(3)</span>
             </div>
           </Link>
