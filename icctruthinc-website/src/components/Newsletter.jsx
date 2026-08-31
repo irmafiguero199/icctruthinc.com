@@ -19,7 +19,7 @@ const Newsletter = () => {
         <Mail className="w-12 h-12 mx-auto mb-6 text-primary-400" />
         <h3 className="text-3xl font-bold mb-4 font-serif">Stay Connected</h3>
         <p className="text-slate-300 mb-8">
-          Subscribe to our newsletter for updates on programs, events, and impact stories from Icc Truth Inc.
+          Subscribe to our newsletter for updates on programs, events, and impact stories from Vernon Maden.
         </p>
         {submitted ? (
           <div className="bg-white/10 backdrop-blur-sm border border-white/20 rounded-xl p-6">
@@ -43,7 +43,7 @@ const Newsletter = () => {
           </form>
         )}
         <p className="text-xs text-slate-400 mt-6">
-          Icc Truth Inc | EIN: 27-0377373 | 21 Baker St, Churchville, NY 14428-9718
+          Vernon Maden | EIN: 87-0974521 | 5731 70th Pl, Lubbock, TX 79424-1819
         </p>
       </div>
     </section>
