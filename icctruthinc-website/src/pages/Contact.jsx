@@ -24,9 +24,9 @@ const Contact = () => {
   return (
     <>
       <Helmet>
-        <title>Contact Us | Icc Truth Inc | 501(c)(3) Nonprofit</title>
-        <meta name="description" content="Contact Icc Truth Inc at 21 Baker St, Churchville, NY 14428-9718. Email: info@icctruthinc.com | Phone: (585) 243-3142. EIN: 27-0377373." />
-        <link rel="canonical" href="https://www.icctruthinc.com/contact" />
+        <title>Contact Us | Vernon Maden | 501(c)(3) Nonprofit</title>
+        <meta name="description" content="Contact Vernon Maden at 5731 70th Pl, Lubbock, TX 79424-1819. Email: admin@vernonmaden.com | Phone: (585) 243-3142. EIN: 87-0974521." />
+        <link rel="canonical" href="https://vernonmaden.com/contact" />
       </Helmet>
 
       <div className="page-hero">
@@ -46,9 +46,9 @@ const Contact = () => {
               <div>
                 <h5 className="font-semibold text-navy-900 mb-1">Physical Address</h5>
                 <p className="text-slate-600 text-sm leading-relaxed">
-                  Icc Truth Inc<br />
-                  21 Baker St<br />
-                  Churchville, NY 14428-9718<br />
+                  Vernon Maden<br />
+                  5731 70th Pl<br />
+                  Lubbock, TX 79424-1819<br />
                   United States
                 </p>
               </div>
@@ -60,8 +60,8 @@ const Contact = () => {
               </div>
               <div>
                 <h5 className="font-semibold text-navy-900 mb-1">Email</h5>
-                <a href="mailto:info@icctruthinc.com" className="text-slate-600 text-sm hover:text-primary-700 transition-colors">
-                  info@icctruthinc.com
+                <a href="mailto:admin@vernonmaden.com" className="text-slate-600 text-sm hover:text-primary-700 transition-colors">
+                  admin@vernonmaden.com
                 </a>
               </div>
             </div>
@@ -84,8 +84,8 @@ const Contact = () => {
               </div>
               <div>
                 <h5 className="font-semibold text-navy-900 mb-1">Website</h5>
-                <a href="https://www.icctruthinc.com" target="_blank" rel="noopener noreferrer" className="text-slate-600 text-sm hover:text-primary-700 transition-colors">
-                  www.icctruthinc.com
+                <a href="https://vernonmaden.com" target="_blank" rel="noopener noreferrer" className="text-slate-600 text-sm hover:text-primary-700 transition-colors">
+                  vernonmaden.com
                 </a>
               </div>
             </div>
@@ -109,9 +109,9 @@ const Contact = () => {
                 <Shield className="w-5 h-5 text-primary-600" />
                 <h4 className="font-bold text-navy-900">Nonprofit Information</h4>
               </div>
-              <p className="text-slate-600 text-sm">EIN: 27-0377373</p>
+              <p className="text-slate-600 text-sm">EIN: 87-0974521</p>
               <p className="text-slate-600 text-sm">IRS Status: 501(c)(3) Public Charity</p>
-              <p className="text-slate-600 text-sm">New York State Entity</p>
+              <p className="text-slate-600 text-sm">Texas State Entity</p>
               <p className="text-slate-600 text-sm">Incorporated: 2009</p>
             </div>
           </div>
